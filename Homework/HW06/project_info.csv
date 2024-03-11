@@ -3,7 +3,7 @@ netdata,C,1400,44800,45000,680,"9,816",323,37
 FiraCode,Clojure,720,44400,45000,222,364,70,2
 deno,TypeScript,1500,44400,45000,320,"2,786",220,32
 html5-boilerplate,JavaScript,2600,44000,45000,2,"1,778",231,1
-element,Vue,1400,43800,45000,"1,235",No Field Found,501,294
+element,Vue,1400,43800,45000,"1,235",,501,294
 markdown-here,JavaScript,1000,43800,45000,246,807,12,17
 Front-end-Developer-Interview-Questions,HTML,2400,43600,45000,5,786,208,0
 resume.github.com,JavaScript,336,43600,45000,29,263,48,6
@@ -11,15 +11,15 @@ awesome-machine-learning,Python,3300,43500,45000,0,"1,368",416,0
 lodash,JavaScript,871,43500,45000,35,"7,994",287,22
 angular.js,JavaScript,4100,59700,45000,390,"8,978","1,578",75
 puppeteer,JavaScript,1200,58600,45000,803,"1,624",251,30
-three.js,JavaScript,2500,58400,45000,494,No Field Found,"1,221",106
+three.js,JavaScript,2500,58400,45000,494,,"1,221",106
 TypeScript,TypeScript,2100,58000,45000,"4,082","29,642",444,257
 angular,TypeScript,3200,57700,45000,"2,918","17,027","1,089",535
 terminal,C++,1200,57600,45000,846,977,195,37
-laravel,PHP,4600,57600,45000,No Field Found,"6,139",524,0
+laravel,PHP,4600,57600,45000,,"6,139",524,0
 moby,Go,3200,56400,45000,"3,627","38,283","1,849",188
 ant-design,TypeScript,1500,56300,45000,435,"17,316","1,002",28
 java-design-patterns,Java,3900,55400,45000,156,"2,402",186,9
-computer-science,None,3400,54900,45000,8,No Field Found,91,1
+computer-science,None,3400,54900,45000,8,,91,1
 30-seconds-of-code,JavaScript,1700,54600,45000,3,"4,780",189,3
 material-ui,JavaScript,1300,54500,45000,328,"11,067","1,652",17
 jquery,JavaScript,3400,53000,45000,70,"6,465",277,13
@@ -29,7 +29,7 @@ thefuck,Python,826,52100,45000,182,"1,555",140,33
 awesome-vue,None,2200,52000,45000,86,"2,813","1,526",220
 awesome-go,Go,2600,51900,45000,8,"3,328","1,195",19
 atom,JavaScript,2500,51100,45000,485,"37,358",436,128
-swift,C++,2500,50600,45000,No Field Found,"101,825",759,428
+swift,C++,2500,50600,45000,,"101,825",759,428
 reveal.js,JavaScript,1600,50300,45000,457,"2,416",255,94
 LeetCodeAnimation,Java,2300,49700,45000,0,87,5,1
 vue-element-admin,Vue,1900,49200,45000,549,966,104,30
@@ -41,13 +41,13 @@ shadowsocks-windows,C#,2600,47300,45000,49,"1,345",65,11
 Chart.js,JavaScript,1400,47200,45000,367,"3,051",313,9
 coding-interview-university,None,5300,97800,45000,26,"1,318",139,22
 developer-roadmap,None,5300,95700,45000,5,253,22,0
-gitignore,None,3000,95200,45000,No Field Found,"3,207","1,110",116
+gitignore,None,3000,95200,45000,,"3,207","1,110",116
 javascript,JavaScript,3500,92600,45000,79,"1,796",429,35
 vscode,TypeScript,2900,91500,45000,"4,475","61,145","1,091",145
 CS-Notes,Java,4500,90800,45000,18,"3,591",207,5
 d3,JavaScript,4000,89900,45000,3,"4,209",121,1
 flutter,Dart,2700,86700,45000,"5,000+","17,643",534,119
-linux,C,6900,86500,45000,No Field Found,"900,539",∞,322
+linux,C,6900,86500,45000,,"900,539",∞,322
 react-native,JavaScript,3700,84900,45000,721,"19,379","2,062",84
 node,JavaScript,2900,67700,45000,910,"29,600","2,645",262
 Python,Python,3300,67000,45000,15,"1,419",428,17
@@ -60,14 +60,14 @@ models,Python,3000,61600,45000,"1,023","4,198",572,219
 youtube-dl,Python,1800,61600,45000,"2,612","17,560",714,565
 build-your-own-x,None,2300,60200,45000,42,379,60,23
 freeCodeCamp,JavaScript,8400,309000,45000,163,"25,355","3,999",89
-996.ICU,Rust,4500,249000,45000,No Field Found,"3,019",605,25
-vue,JavaScript,6000,157000,45000,291,No Field Found,289,152
+996.ICU,Rust,4500,249000,45000,,"3,019",605,25
+vue,JavaScript,6000,157000,45000,291,,289,152
 react,JavaScript,6600,144000,45000,483,"12,812","1,361",98
 tensorflow,C++,8500,141000,45000,"3,102","78,840","2,396",245
 bootstrap,JavaScript,7200,139000,45000,331,"19,337","1,108",78
 free-programming-books,None,8600,137000,45000,19,"5,200","1,096",16
 awesome,None,6600,126000,45000,12,892,439,14
-You-Dont-Know-JS,None,5400,117000,45000,76,No Field Found,169,38
+You-Dont-Know-JS,None,5400,117000,45000,76,,169,38
 ohmyzsh,Shell,2600,103000,45000,214,"5,481","1,498",562
 system-design-primer,Python,4400,82700,45000,78,280,75,59
 electron,C++,2800,80700,45000,"1,261","23,166",928,64
@@ -79,13 +79,13 @@ axios,JavaScript,1200,69600,45000,284,905,199,147
 go,Go,3400,69000,45000,"5,000+","42,513","1,464",176
 JavaGuide,Java,3600,68800,45000,21,"2,063",124,1
 the-art-of-command-line,None,2200,68200,45000,78,"1,185",150,89
-django,Python,2200,47200,45000,No Field Found,"27,917","1,854",237
+django,Python,2200,47200,45000,,"27,917","1,854",237
 elasticsearch,Java,2800,47000,45000,"2,176","50,582","1,355",309
 keras,Python,2100,46800,45000,"2,790","5,342",820,62
 httpie,Python,1100,45800,45000,135,"1,148",84,24
-storybook,TypeScript,693,45500,45000,476,No Field Found,914,51
+storybook,TypeScript,693,45500,45000,476,,914,51
 json-server,JavaScript,973,45500,45000,448,789,60,60
 Apollo-11,Assembly,1300,45400,45000,14,354,103,4
 spring-boot,Java,3400,45400,45000,423,"25,192",651,27
 rails,Ruby,2600,45000,45000,404,"75,943","3,973",239
-next.js,JavaScript,846,45000,45000,272,No Field Found,917,30
+next.js,JavaScript,846,45000,45000,272,,917,30
